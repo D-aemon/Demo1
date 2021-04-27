@@ -4,7 +4,7 @@ datasource:
   driverName: mysql
   host: 127.0.0.1
   port: 3306
-  database: student
-  username: root
-  password: Zpj991221
+  database: your database
+  username: your username
+  password: your password
   charset: utf8
